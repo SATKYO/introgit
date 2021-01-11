@@ -2,3 +2,4 @@
 2.基本的なワークフローを理解します
 3.git add /git commit
 4.git rm
+5.git status
