@@ -1,3 +1,4 @@
 1.Gitの練習やります
 2.基本的なワークフローを理解します
 3.git add /git commit
+4.git rm
